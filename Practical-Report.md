@@ -1,9 +1,9 @@
 ![College Logo](https://www.gndec.ac.in/logo.png)
 
 # **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
-## **NAME - SHARANJIT SINGH**
-## **ROLL NO - 1914103**
-## **SECTION - CE(B2)**
+## **NAME - MD AQUIB HASSAN**
+## **ROLL NO - 1914071**
+## **SECTION - CE(B1)**
 ----------------------------------------------
 
 ###  1. Program to find Sum
