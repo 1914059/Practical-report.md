@@ -317,11 +317,11 @@
 
     Enter The Number of Students: 3
 
-    Enter The Name of The Student : Sharan
-    Enter The Roll No. of Students: 1914103
+    Enter The Name of The Student : Aquib
+    Enter The Roll No. of Students: 1914071
 
-    Name = Sharan
-    Roll No. = 1914103
+    Name = Aquib
+    Roll No. = 1914071
 
     Enter The Name of The Student : Sidhant 
     Enter The Roll No. of Students: 1914109
