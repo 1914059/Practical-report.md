@@ -4,6 +4,8 @@
 ## **NAME - MD AQUIB HASSAN**
 ## **ROLL NO - 1914071**
 ## **SECTION - CE(B1)**
+## **SUBMITTED BY- MDAQUIB HASSAN
+## **SUBMITTED BY- YADVIR KAUR
 ----------------------------------------------
 
 ###  1. Program to find Sum
