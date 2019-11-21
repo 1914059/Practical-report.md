@@ -1,10 +1,10 @@
 ![College Logo](https://www.gndec.ac.in/logo.png)
 
 # **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
-## **NAME - MD AQUIB HASSAN**
-## **ROLL NO - 1914071**
+## **NAME - JAY PRAKASH**
+## **ROLL NO - 1914059**
 ## **SECTION - CE(B1)**
-     SUBMITTED BY- MD AQUIB HASSAN
+     SUBMITTED BY- JAY PRAKASH
      SUBMITTED TO- YADVIR KAUR
 ----------------------------------------------
 
@@ -319,8 +319,8 @@
 
     Enter The Number of Students: 3
 
-    Enter The Name of The Student : Aquib
-    Enter The Roll No. of Students: 1914071
+    Enter The Name of The Student : Jay Prakash
+    Enter The Roll No. of Students: 1914059
 
     Name = Aquib
     Roll No. = 1914071
